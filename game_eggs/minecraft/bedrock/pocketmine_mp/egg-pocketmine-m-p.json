@@ -32,7 +32,7 @@
             "name": "Version to install [pm3 or pm4]",
             "description": "Latest PocketMine version to install. Valid options: pm3 and pm4",
             "env_variable": "VERSION",
-            "default_value": "pm4",
+            "default_value": "pm3",
             "user_viewable": true,
             "user_editable": true,
             "rules": "required|string|in:pm3,pm4"
